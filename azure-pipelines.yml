@@ -13,4 +13,4 @@ steps:
     repository: 'mobinaali/app_mobina'
     command: 'buildAndPush'
     Dockerfile: 'simple-nodejs-app/Dockerfile'
-    tags: 'latest'
+    tags: 'latest'
